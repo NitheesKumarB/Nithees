@@ -8,3 +8,4 @@ Scenario 4: book a car
 Scenario 5: book a cab
 Scenario 6: book a bike
 >>>>>>> TrainMMT
+Scenario 7: Train from mumbai to pune

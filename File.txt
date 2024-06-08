@@ -1,2 +1,5 @@
 Scenario 1: book a train
 Scenario 2: book a flight
+
+Scenario 5: book a cab
+Scenario 6: book a bike

@@ -1,5 +1,10 @@
 Scenario 1: book a train
 Scenario 2: book a flight
 
+//By navjot
 Scenario 3: book a bus
 Scenario 4: book a car
+// By me
+Scenario 5: book a cab
+Scenario 6: book a bike
+>>>>>>> TrainMMT
